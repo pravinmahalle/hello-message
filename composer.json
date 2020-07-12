@@ -1,0 +1,14 @@
+{
+    "name": "pmahalle/hello-message",
+    "description": "Simple message",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pravin Mahalle",
+            "email": "pravinmahalle@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
